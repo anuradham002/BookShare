@@ -31,7 +31,7 @@ try {
 
     //Recipients
     $mail->setFrom($email, $name);
-    $mail->addAddress('alpham26m@gmail.com');     //Add a recipient
+    $mail->addAddress('example@gmail.com');     //Add a recipient
     
 
     
